@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Data Analytics GIF">
 </p>
 
-📍 **Dublin, Ireland** | ✉️ sivaacheri@.com | 📞 +353 892641032  
+📍 **Dublin, Ireland** | ✉️ sivaacheri@gmail.com | 📞 +353 892641032  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](www.linkedin.com/in/sivakumar-arunachalam-8b626932a)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/yourusername)
